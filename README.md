@@ -47,4 +47,4 @@ I hold a Bachelor's degree in Electrical and Computer Engineering from the Facul
   </a>
 </p>
 
-I also have knowledge in PLC programming (CoDeSys), GRAFCET, Assembly, Embedded Systems, LTspice, Arduino (intermediate), PostgreSQL, JavaScript, React, and I’m learning Dart & Flutter for cross-platform apps.
+I also have knowledge in PLC programming (CoDeSys) and GRAFCET.
