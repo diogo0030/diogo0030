@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Diogo Oliveira</h1>
-
-  I hold a Bachelor's degree in Electrical and Computer Engineering from the Faculdade de Engenharia da Universidade do Porto (FEUP). I am currently pursuing a Master's degree in Automation at the same institution, where I aim to deepen my knowledge and skills in the field of automation and control systems. I have a strong interest in programming and am currently seeking job opportunities to apply and expand my competencies in this area.
-  
-- 📫 How to reach me **odiogo27@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/diogo-oliveira-294406249/](https://www.linkedin.com/in/diogo-oliveira-294406249/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/diogo-oliveira-294406249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogo oliveira" height="30" width="40" /></a>
+<p align="center">
+  MSc student in Automation (Electrical & Computer Engineering) @ <strong>FEUP</strong> •
+  Embedded systems, control & industrial automation •
+  Open to opportunities in software/automation
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-I also have knowledge in PLC programming., CoDeSys, GRAFCET and Assembly.
+### About me
+I hold a BSc in Electrical and Computer Engineering from FEUP and I’m currently pursuing an MSc (Automation) at the same school. My work bridges hardware and software: embedded systems, industrial communications, control systems, and applied machine learning/computer vision for automation. I enjoy building reliable, well-documented solutions that move from lab prototype to the factory floor.
+
+- 🔭 **Currently:** deepening skills in embedded/real-time programming, control, and distributed systems for Industry 4.0.  
+- 💻 **Interests:** robotics, perception, PLC/SCADA, data-driven inspection, and edge AI.  
+- 🌱 **Looking for:** internships/entry-level roles where I can code, ship, and learn fast.
+
+### Skills & tools
+- **Programming:** C, C++, Python, MATLAB/Simulink, Assembly  
+- **Embedded & OS:** microcontrollers, Linux basics  
+- **Automation:** PLC programming, CoDeSys, GRAFCET  
+- **Data/ML:** basic computer vision & ML for inspection/monitoring  
+- **Practices:** version control (Git), clean and documented code
+
+### Find me
+- 📫 Email: **odiogo27@gmail.com**  
+- 🔗 LinkedIn: [diogo-oliveira-294406249](https://www.linkedin.com/in/diogo-oliveira-294406249/)
+
