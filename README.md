@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diogo Oliveira</h1>
 
-I hold a Bachelor's degree in Electrical and Computer Engineering from the Faculdade de Engenharia da Universidade do Porto (FEUP). I am currently pursuing a Master's degree in Automation at the same institution, where I aim to deepen my knowledge and skills in the field of automation and control systems. I have a strong interest in programming and am currently expand my competencies in this area.
+I hold a Bachelor's degree in Electrical and Computer Engineering from the Faculdade de Engenharia da Universidade do Porto (FEUP). I am currently pursuing a Master's degree in Automation at the same institution, where I aim to deepen my knowledge and skills in the field of automation and control systems. I have a strong interest in programming and i am currently expand my competencies in this area.
   
 - 📫 How to reach me **odiogo27@gmail.com**
 
